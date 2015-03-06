@@ -290,6 +290,11 @@ $(document).ready(function(){
                 </div><!--engineer-drop-->
                 </li>
                 <!-- END ENGINEER'S CORNER -->
+
+                <!-- BEGIN LINKS -->
+                <li><a href="links.php" class="drop">Links</a></li>
+                <li> | </li>
+                <!-- END LINKS -->
             </ul>
         </div><!--nav-left-->
         
