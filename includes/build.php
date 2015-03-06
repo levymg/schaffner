@@ -1,0 +1,1 @@
+<?php$breadCrumbMapping = Array();/*Folders to be mapped*/$breadCrumbMapping['f1'] = "Folder 1";$breadCrumbMapping['f2'] = "Folder 2";$breadCrumbMapping['f3'] = "Folder 3";?>
